@@ -4,11 +4,11 @@ Hello everyone and welcome to this hands-on guided project on Artificial intelli
 In this case study, we will automate the process of detecting and classifying chest disease from X-Ray images to reduce the cost and time of detection. This guided project is practical and directly applicable to the healthcare industry. You can add this project to your portfolio of projects which is essential for your next job interview.
 
 
-Learn step-by-step
+# Learn step-by-step
 Slide content has changed, slide 3
 In a video that plays in a split-screen with your work area, your instructor will walk you through these steps:
 
-Understand the Problem Statement and Business Case
+ # Understand the Problem Statement and Business Case
 
 Import Key Libraries and Datasets
 
