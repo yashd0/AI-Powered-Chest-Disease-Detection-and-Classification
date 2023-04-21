@@ -33,6 +33,17 @@ Dataset contains 133 images that belongs to 4 CLASSES
 
 * Assess Trained ResNet Performance
 
+# Output
+
+![o2](https://user-images.githubusercontent.com/109656499/233540354-9f55ed17-ccf4-4717-9082-44d97ec54a70.png)
+
+
+![o1](https://user-images.githubusercontent.com/109656499/233540370-6aa2e85c-d96d-496b-8088-3f2880265e38.png)
+
+
+
+
+
 
 # Conclusion 
 
